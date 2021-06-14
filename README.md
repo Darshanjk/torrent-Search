@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 <p align="center">
 <a href="https://github.com/hemantapkh/torrenthunt/stargazers">
 <img src="https://img.shields.io/github/stars/hemantapkh/torrenthunt" alt="Stars">
